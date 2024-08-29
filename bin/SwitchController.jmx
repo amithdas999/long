@@ -1161,7 +1161,7 @@ else
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">switch_result.jtl</stringProp>
+          <stringProp name="filename">switch_result2.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
@@ -1202,7 +1202,7 @@ else
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">switch_result.jtl</stringProp>
+        <stringProp name="filename">switch_result2.jtl</stringProp>
       </ResultCollector>
       <hashTree/>
       <ProxyControl guiclass="ProxyControlGui" testclass="ProxyControl" testname="HTTP(S) Test Script Recorder" enabled="false">
